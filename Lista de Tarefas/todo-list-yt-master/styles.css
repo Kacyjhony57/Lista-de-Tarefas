@@ -11,6 +11,22 @@ body{
     background: url("./img/background.png");
 }
 
+.Titulo{
+
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 10px 10px;
+    color: gray;
+    font-weight: 600;
+    font-style: italic;
+
+    
+    
+}
+
 .container {
     background-color: #d1d1d1;
     width: 500px;
